@@ -16,7 +16,6 @@ The model achieves approximately *80–85% accuracy*, demonstrating strong predi
 ## Dataset
 •⁠  ⁠Source: UCI / Kaggle Bank Marketing Dataset  
 •⁠  ⁠Size: 45,000+ customer records  
-•⁠  ⁠Target: Subscription to term deposit (Yes/No)
 
 
 ## Tools & Technologies
@@ -39,7 +38,6 @@ The model achieves approximately *80–85% accuracy*, demonstrating strong predi
   - Contact intensity
   - Financial pressure score
   - Campaign grouping
-•⁠  ⁠Encoded categorical variables for modeling
 
 ### 3. Modeling
 •⁠  ⁠Trained a Random Forest classifier
@@ -50,7 +48,7 @@ The model achieves approximately *80–85% accuracy*, demonstrating strong predi
 
 
 ## Model Performance
-•⁠  ⁠Accuracy: ~80–85%  
+•⁠  ⁠Accuracy: 80–85%  
 •⁠  ⁠Strong ROC AUC indicating good class separation  
 •⁠  ⁠Balanced performance across classes  
 
