@@ -7,10 +7,10 @@ The model achieves approximately *80–85% accuracy*, demonstrating strong predi
 
 
 ## Objectives
-•⁠  ⁠Analyze customer and campaign data
-•⁠  ⁠Identify key factors influencing conversion
-•⁠  ⁠Build a predictive model for customer response
-•⁠  ⁠Generate actionable insights for marketing optimization
+- ⁠Analyze customer and campaign data
+- ⁠Identify key factors influencing conversion
+- ⁠Build a predictive model for customer response
+- ⁠Generate actionable insights for marketing optimization
 
 
 ## Dataset
