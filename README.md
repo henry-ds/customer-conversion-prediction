@@ -29,9 +29,9 @@ The model achieves approximately *80–85% accuracy*, demonstrating strong predi
 ## Methodology
 
 ### 1. Exploratory Data Analysis
-•⁠  ⁠Examined customer demographics and campaign variables
-•⁠  ⁠Identified class imbalance in target variable
-•⁠  ⁠Analyzed relationships between features and conversion
+- ⁠Examined customer demographics and campaign variables
+- ⁠Identified class imbalance in target variable
+- ⁠Analyzed relationships between features and conversion
 
 ### 2. Feature Engineering
 •⁠  ⁠Created behavioral and campaign-based features:
