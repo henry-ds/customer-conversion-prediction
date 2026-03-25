@@ -5,7 +5,6 @@ This project develops a machine learning model to predict customer response to a
 
 The model achieves approximately *80–85% accuracy*, demonstrating strong predictive performance and the ability to capture key drivers of customer behavior.
 
----
 
 ## Objectives
 •⁠  ⁠Analyze customer and campaign data
@@ -13,14 +12,12 @@ The model achieves approximately *80–85% accuracy*, demonstrating strong predi
 •⁠  ⁠Build a predictive model for customer response
 •⁠  ⁠Generate actionable insights for marketing optimization
 
----
 
 ## Dataset
 •⁠  ⁠Source: UCI / Kaggle Bank Marketing Dataset  
 •⁠  ⁠Size: 45,000+ customer records  
 •⁠  ⁠Target: Subscription to term deposit (Yes/No)
 
----
 
 ## Tools & Technologies
 •⁠  ⁠Python  
@@ -29,7 +26,6 @@ The model achieves approximately *80–85% accuracy*, demonstrating strong predi
 •⁠  ⁠Matplotlib  
 •⁠  ⁠Jupyter Notebook  
 
----
 
 ## Methodology
 
@@ -52,14 +48,12 @@ The model achieves approximately *80–85% accuracy*, demonstrating strong predi
   - ROC AUC
   - Classification metrics
 
----
 
 ## Model Performance
 •⁠  ⁠Accuracy: ~80–85%  
 •⁠  ⁠Strong ROC AUC indicating good class separation  
 •⁠  ⁠Balanced performance across classes  
 
----
 
 ## Key Insights
 
@@ -68,7 +62,6 @@ The model achieves approximately *80–85% accuracy*, demonstrating strong predi
 •⁠  ⁠Customers with *previous interactions* show higher conversion rates  
 •⁠  ⁠Behavioral and engagement features are strong predictors of response  
 
----
 
 ## Business Impact
 
@@ -80,13 +73,11 @@ This model enables:
 
 By focusing on customers most likely to respond, organizations can optimize resource allocation and improve marketing ROI.
 
----
 
 ## Important Note
 
 The model includes the ⁠ duration ⁠ variable, which significantly improves predictive performance. However, since this variable is only known after the call, it introduces post-contact information. In a real-world deployment, a pre-contact model would exclude this feature.
 
----
 
 ## How to Run
 
@@ -97,7 +88,6 @@ The model includes the ⁠ duration ⁠ variable, which significantly improv
    - ⁠ 02_feature_engineering.ipynb ⁠
    - ⁠ 03_modeling.ipynb ⁠
 
----
 
 ## Future Improvements
 
@@ -106,8 +96,7 @@ The model includes the ⁠ duration ⁠ variable, which significantly improv
 •⁠  ⁠Develop a Power BI dashboard for business visualization  
 •⁠  ⁠Deploy model as an API  
 
----
 
 ## Author
 Emeka Henry Anumba  
-Data Analyst | Data-Driven Marketing Enthusiast
+Data Analyst | Data Science & Customer Analytics
