@@ -14,16 +14,16 @@ The model achieves approximately *80–85% accuracy*, demonstrating strong predi
 
 
 ## Dataset
-•⁠  ⁠Source: UCI / Kaggle Bank Marketing Dataset  
-•⁠  ⁠Size: 45,000+ customer records  
+* ⁠Source: UCI / Kaggle Bank Marketing Dataset  
+* ⁠Size: 45,000+ customer records  
 
 
 ## Tools & Technologies
-•⁠  ⁠Python  
-•⁠  ⁠Pandas, NumPy  
-•⁠  ⁠Scikit-learn  
-•⁠  ⁠Matplotlib  
-•⁠  ⁠Jupyter Notebook  
+* ⁠Python  
+* ⁠Pandas, NumPy  
+* ⁠Scikit-learn  
+* ⁠Matplotlib  
+* ⁠Jupyter Notebook  
 
 
 ## Methodology
@@ -34,40 +34,40 @@ The model achieves approximately *80–85% accuracy*, demonstrating strong predi
 - ⁠Analyzed relationships between features and conversion
 
 ### 2. Feature Engineering
-•⁠  ⁠Created behavioral and campaign-based features:
+ * ⁠Created behavioral and campaign-based features:
   - Contact intensity
   - Financial pressure score
   - Campaign grouping
 
 ### 3. Modeling
-•⁠  ⁠Trained a Random Forest classifier
-•⁠  ⁠Evaluated using:
+* ⁠Trained a Random Forest classifier
+* ⁠Evaluated using:
   - Accuracy
   - ROC AUC
   - Classification metrics
 
 
 ## Model Performance
-•⁠  ⁠Accuracy: 80–85%  
-•⁠  ⁠Strong ROC AUC indicating good class separation  
-•⁠  ⁠Balanced performance across classes  
+-  ⁠Accuracy: 80–85%  
+- ⁠Strong ROC AUC indicating good class separation  
+- ⁠Balanced performance across classes  
 
 
 ## Key Insights
 
-•⁠  ⁠Customers with *longer call durations* are significantly more likely to convert  
-•⁠  ⁠*Moderate campaign contact* performs better than excessive outreach  
-•⁠  ⁠Customers with *previous interactions* show higher conversion rates  
-•⁠  ⁠Behavioral and engagement features are strong predictors of response  
+-  ⁠Customers with *longer call durations* are significantly more likely to convert  
+- ⁠*Moderate campaign contact* performs better than excessive outreach  
+- ⁠Customers with *previous interactions* show higher conversion rates  
+- ⁠Behavioral and engagement features are strong predictors of response  
 
 
 ## Business Impact
 
 This model enables:
-•⁠  ⁠Prioritization of high-probability customers  
-•⁠  ⁠Improved campaign targeting  
-•⁠  ⁠Reduced marketing costs  
-•⁠  ⁠Increased conversion efficiency  
+- ⁠Prioritization of high-probability customers  
+- ⁠Improved campaign targeting  
+- ⁠Reduced marketing costs  
+- ⁠Increased conversion efficiency  
 
 By focusing on customers most likely to respond, organizations can optimize resource allocation and improve marketing ROI.
 
@@ -89,10 +89,10 @@ The model includes the ⁠ duration ⁠ variable, which significantly improv
 
 ## Future Improvements
 
-•⁠  ⁠Build a pre-contact model excluding duration  
-•⁠  ⁠Implement hyperparameter tuning  
-•⁠  ⁠Develop a Power BI dashboard for business visualization  
-•⁠  ⁠Deploy model as an API  
+* ⁠Build a pre-contact model excluding duration  
+* ⁠Implement hyperparameter tuning  
+* ⁠Develop a Power BI dashboard for business visualization  
+* ⁠Deploy model as an API  
 
 
 ## Author
